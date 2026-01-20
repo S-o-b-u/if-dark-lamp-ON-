@@ -3,7 +3,8 @@
 # 👁️ The Sentient Lamp
 ### A Smart Ambient Light System with Personality
 
-![Project Banner](media/banner_placeholder.jpg)
+<img src="media/banner.jpg" alt="Project Banner" width="700">
+
 [![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
 [![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
