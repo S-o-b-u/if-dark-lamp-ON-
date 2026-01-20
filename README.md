@@ -30,14 +30,12 @@ But unlike boring sensors, this one looks back at you. It features a **Event-dri
 * **⚡ Non-Blocking Core:** zero `delay()` usage ensures smooth animations at 30+ FPS.
 
 ---
-
 ## 📸 Gallery
 
-| **Day Mode (Auto Off)** | **Night Mode (Auto On)** |
-|:---:|:---:|
-| ![Lazy Eyes](media/day_mode.jpg) | ![Awake Eyes](media/night_mode.jpg) |
-| *System sleeps. Eyes heavy. Light OFF.* | *System alert. Eyes wide. Light ON.* |
-
+| **Day Mode (Auto Off)** | **Night Mode (Auto On)** | **Manual Sleep (Force Off)** |
+|:---:|:---:|:---:|
+| ![Lazy Eyes](media/day_mode.jpg) | ![Awake Eyes](media/night_mode.jpg) | ![Force Off](media/force_off.jpg)) |
+| *System snoozing. Eyes heavy.* | *System alert. Eyes wide.* | *System Shutdown. Flatline.* |
 ---
 
 ## ⚙️ How It Works (The Logic)
