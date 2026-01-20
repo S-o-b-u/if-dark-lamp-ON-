@@ -95,4 +95,56 @@ This creates a **stable dead zone**.
 ---
 
 ## 📂 Project Structure
+├── src/
+│ └── smart_lamp.ino
+├── docs/
+│ ├── circuit_diagram.png
+│ ├── fsm_diagram.png
+├── media/
+│ └── demo_video.mp4
+├── README.md
+
+
+---
+
+## 🧠 Concepts Used
+
+- Digital & Analog I/O
+- FSM design pattern
+- Hysteresis
+- Non-blocking timing (`millis()`)
+- Embedded UI design
+- Sensor calibration
+- Clean state-based logic
+
+---
+
+## 🎥 Demo
+
+📹 *Video demo included in `/media` folder*
+
+---
+
+## 🚀 Future Improvements (Optional)
+
+- Ambient dimming (PWM brightness)
+- EEPROM threshold storage
+- Rotary encoder calibration
+- RTC-based night mode
+- Enclosure design
+
+---
+
+## 🏁 Final Note
+
+This project intentionally avoids unnecessary complexity (WiFi, apps, cloud).
+It focuses on **robust embedded design fundamentals**.
+
+> Sometimes the smartest system is the simplest one.
+
+---
+
+### Author
+**Souvik Rahut**  
+Hardware • Embedded • Curious Engineer
 
