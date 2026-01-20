@@ -32,10 +32,10 @@ But unlike boring sensors, this one looks back at you. It features a **procedura
 
 ## 📸 Gallery
 
-| **Day Mode (Auto Off)** | **Night Mode (Auto On)** | **Manual Override** |
-|:---:|:---:|:---:|
-| ![Lazy Eyes](image_897c90.jpg) | ![Awake Eyes](image_897c8a.jpg) | ![Manual UI](media/manual_ui.jpg) |
-| *System sleeps. Eyes heavy. Light OFF.* | *System alert. Eyes wide. Light ON.* | *Forced control. Tactical UI.* |
+| **Day Mode (Auto Off)** | **Night Mode (Auto On)** |
+|:---:|:---:|
+| ![Lazy Eyes](media/day_mode.jpg) | ![Awake Eyes](media/night_mode.jpg) |
+| *System sleeps. Eyes heavy. Light OFF.* | *System alert. Eyes wide. Light ON.* |
 
 ---
 
