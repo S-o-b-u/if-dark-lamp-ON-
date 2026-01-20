@@ -102,12 +102,12 @@ Without hysteresis, if the light level hovered exactly at the threshold (e.g., 5
 
 ```bash
 ├── src/
-│   └── smart_lamp_eyes.ino  # Main source code
+│   └── SentientLamp.ino       # Matches the repo name (Professional convention)
 ├── docs/
-│   ├── circuit_diagram.png  # Wiring schematic
-│   └── logic_flow.pdf       # Detailed FSM docs
-├── media/
-│   └── demo_video.mp4       # Usage demonstration
+│   ├── schematic_v1.png       # "Schematic" is more technical than "diagram"
+│   └── fsm_architecture.pdf   # "FSM" shows you know the specific logic pattern used
+├── assets/                    # "Assets" is standard for images/videos in a repo
+│   └── system_preview.mp4     # "System" sounds more robust than "demo"
 └── README.md
 
 ```
